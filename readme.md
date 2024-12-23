@@ -11,4 +11,8 @@ I am a research engineer passionate about building and contributing to tools and
 
 These projects are in their early stages. If you're interested in contributing, please feel free to reach out. The initial versions of the tools will be available in the second quarter of 2025.
 
-## You can find me on 🌎: <a href="https://vikramsinghanttal.github.io/IIT-Kanpur/">here</a>.
+## You can find me on 🌎:
+
+- <a href="https://vikramsinghanttal.github.io/IIT-Kanpur/"> Personal Webpage</a> 🌎 (Updated Every Quarter).
+- <a href="https://www.linkedin.com/in/vikramgiga/"> LinkedIn</a> <img src="https://github.com/user-attachments/assets/60f16003-1ed1-4fa5-a0d1-5e1b6bfc4cd8" width="16">
+(Cutting down distractions: Not active for atleast next 2 quarter.).
