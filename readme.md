@@ -1,8 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, Thanks for visiting!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> </h1>
 
----
-
 I'm Vikram from India <img src="https://raw.githubusercontent.com/vikramsinghanttal/IIT-Kanpur/refs/heads/master/indianflag.svg" width="18">. I am a research engineer passionate about developing and contributing to tools and packages in AI <img src="https://github.com/vikramsinghanttal/icons/blob/main/AI.png" width="12">, wireless communication <img src="https://github.com/vikramsinghanttal/icons/blob/main/gNB2.png" width="12">, signal processing, and quantum computing <img src="https://github.com/vikramsinghanttal/icons/blob/main/QC.png" width="12">. My goal is to accelerate learning, create technologies that simplify people's lives, and contribute to advancements in these fields.
 
 I have developed a Python-based simulation package called [5G-Toolkit](https://gigayasawireless.github.io/toolkit5G/), which is used to simulate 5th and 6th Generation Wireless Networks. Currently, I am working on GPU-accelerated <img src="https://as1.ftcdn.net/v2/jpg/06/18/28/66/1000_F_618286673_EsXfu5DoxhviqQOf5XajS8lKYksyomJQ.jpg" width="20">, open-source tools for simulating:
