@@ -23,7 +23,7 @@ These projects are still in the early stages. If you're interested in contributi
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 <img src="https://raw.githubusercontent.com/vikramsinghanttal/icons/refs/heads/main/astro-logo-light-gradient2.svg" width="56">
-<img src="https://github.com/vikramsinghanttal/icons/blob/main/MATLAB.svg" width="56">
+<img src="https://github.com/vikramsinghanttal/icons/blob/main/MATLAB.svg" width="64">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
