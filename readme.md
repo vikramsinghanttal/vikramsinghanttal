@@ -23,8 +23,8 @@ These projects are still in the early stages. If you're interested in contributi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-<img src="https://raw.githubusercontent.com/vikramsinghanttal/icons/refs/heads/main/astro-logo-light-gradient2.svg" width="60">
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+<img src="https://raw.githubusercontent.com/vikramsinghanttal/icons/refs/heads/main/astro-logo-light-gradient2.svg" width="56">
+<img src="https://github.com/vikramsinghanttal/icons/blob/main/MATLAB.svg" width="56">
 
 ## You can find me on 🌎:
 
