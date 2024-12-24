@@ -15,7 +15,23 @@ These projects are still in the early stages. If you're interested in contributi
 
 ---
 
+## Things I code with
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+<img src="https://raw.githubusercontent.com/vikramsinghanttal/icons/refs/heads/main/astro-logo-light-gradient2.svg" width="60">
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+
 ## You can find me on 🌎:
 
 - <a href="https://vikramsinghanttal.github.io/IIT-Kanpur/"> Personal Webpage</a> 🌎 (Updated Every Quarter).
 - <a href="https://www.linkedin.com/in/vikramgiga/"> LinkedIn</a> 💼 (Cutting down distractions: Not active for atleast next 2 quarter).
+
+  #### 📫 How to reach me:
+  
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
