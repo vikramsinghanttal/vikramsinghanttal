@@ -1,11 +1,11 @@
 
-# Hi, I'm Vikram <img src="https://raw.githubusercontent.com/vikramsinghanttal/IIT-Kanpur/refs/heads/master/indianflag.svg" width="32">  <img src="https://as1.ftcdn.net/v2/jpg/06/18/28/66/1000_F_618286673_EsXfu5DoxhviqQOf5XajS8lKYksyomJQ.jpg" width="34">  <img src="https://as1.ftcdn.net/v2/jpg/08/50/01/42/1000_F_850014293_TqfH3bP6bHDfo9ioUHfs8Zr1uNnBoIsQ.webp" width="34">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, Thanks for visiting!</h1>
 
 ---
 
-I am a research engineer passionate about developing and contributing to tools and packages in AI, wireless communication, signal processing, and quantum computing. My goal is to accelerate learning, create technologies that simplify people's lives, and contribute to advancements in these fields.
+I'm Vikram from India <img src="https://raw.githubusercontent.com/vikramsinghanttal/IIT-Kanpur/refs/heads/master/indianflag.svg" width="18">. I am a research engineer passionate about developing and contributing to tools and packages in AI <img src="https://raw.githubusercontent.com/vikramsinghanttal/IIT-Kanpur/refs/heads/master/indianflag.svg" width="18">, wireless communication <img src="https://raw.githubusercontent.com/vikramsinghanttal/IIT-Kanpur/refs/heads/master/indianflag.svg" width="18">, signal processing <img src="https://raw.githubusercontent.com/vikramsinghanttal/IIT-Kanpur/refs/heads/master/indianflag.svg" width="18">, and quantum computing <img src="https://raw.githubusercontent.com/vikramsinghanttal/IIT-Kanpur/refs/heads/master/indianflag.svg" width="18">. My goal is to accelerate learning, create technologies that simplify people's lives, and contribute to advancements in these fields.
 
-I have developed a Python-based simulation package called [5G-Toolkit](https://gigayasawireless.github.io/toolkit5G/), which is used to simulate 5th and 6th Generation Wireless Networks. Currently, I am working on GPU-accelerated, open-source tools for simulating:
+I have developed a Python-based simulation package called [5G-Toolkit](https://gigayasawireless.github.io/toolkit5G/), which is used to simulate 5th and 6th Generation Wireless Networks. Currently, I am working on GPU-accelerated <img src="https://as1.ftcdn.net/v2/jpg/06/18/28/66/1000_F_618286673_EsXfu5DoxhviqQOf5XajS8lKYksyomJQ.jpg" width="20">, open-source tools for simulating:
 
 - Communication Systems ([toolkitComm](https://github.com/vikramsinghanttal/Communication-System-Toolkit)),
 - Information Theory and Coding Theory ([toolkitITC](https://github.com/vikramsinghanttal/Information-and-Coding-Theory-Toolkit)), and
