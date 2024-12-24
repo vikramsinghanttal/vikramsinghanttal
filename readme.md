@@ -15,8 +15,6 @@ These projects are still in the early stages. If you're interested in contributi
 
 ---
 
-This version tightens up the language and improves the flow while keeping all the essential details intact. Let me know if you'd like any further adjustments!
-
 ## You can find me on 🌎:
 
 - <a href="https://vikramsinghanttal.github.io/IIT-Kanpur/"> Personal Webpage</a> 🌎 (Updated Every Quarter).
