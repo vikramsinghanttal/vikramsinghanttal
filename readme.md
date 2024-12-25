@@ -65,28 +65,34 @@ These projects are still in the early stages. If you're interested in contributi
 ## I can help you with the following gadgets:
 If you live around, you can pick up any or multiple of this stuff, but you will need to return it within a week.
 
-#### Laptop/Workstation
+#### Laptop/Workstation :computer:
 - Predator Helios 300
   - 32 GB RAM
   - Intel i9
   - NVIDIA RTX 3070 GPU
  
-#### Cell Phone(s)
+#### Cell Phone(s) :iphone:
 - Apple iPhone 15 Pro Max (Mostly for recording content: Low Distraction Phone)
 - Samsung Galaxy S23 (Distraction Phone)
 - Nokia 110 (Use it as a dumb phone)
  
-#### Camera(s)
+#### Camera(s) :camera:
 - Lenovo 300 (As a laptop Camera)
 
-#### Microphone
+#### Microphone :microphone:
 - Shure MV7 (For recording content)
 
 #### SDRs (Software Defined Radios)
 - 2 Pluto-SDRs
 - USRP B210 (``planning to buy in 2025``)
 
-#### GPUs
+#### GPUs <img src="https://as1.ftcdn.net/v2/jpg/06/18/28/66/1000_F_618286673_EsXfu5DoxhviqQOf5XajS8lKYksyomJQ.jpg" width="20">
 - 2 RTX-3070i GPUs (For AI-ML model trainings and RTX works)
+
+#### Headphones 🎧
+- Sony WH-1000XM4
+
+#### Kindle :book:
+- Amazon Kindle Paperwhite (``I don't share kindle``)
 
 ---
