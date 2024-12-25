@@ -61,3 +61,32 @@ These projects are still in the early stages. If you're interested in contributi
 - <a href="https://gigayasawireless.github.io/5G-on-SDRs/"> A hands-on course on SDRs using Python Tools</a>
 
 ---
+
+## I can help you with the following gadgets:
+If you live around, you can pick up any or multiple of this stuff, but you will need to return it within a week.
+
+#### Laptop/Workstation
+- Predator Helios 300
+  - 32 GB RAM
+  - Intel i9
+  - NVIDIA RTX 3070 GPU
+ 
+#### Cell Phone(s)
+- Apple iPhone 15 Pro Max (Mostly for recording content: Low Distraction Phone)
+- Android S23 (Distraction Phone)
+- Nokia 110 (Use it as a dumb phone)
+ 
+#### Camera(s)
+- Lenovo 300 (As a laptop Camera)
+
+#### Microphone
+- Shure MV7 (For recording content)
+
+#### SDRs (Software Defined Radios)
+- 2 Pluto-SDRs
+- USRP B210 (planning to buy in 2025)
+
+#### GPUs
+- 2 RTX-3070i GPUs (For AI-ML model trainings and RTX works)
+
+---
