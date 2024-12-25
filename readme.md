@@ -59,6 +59,8 @@ These projects are still in the early stages. If you're interested in contributi
 
 ## Some useful resources that I built and contributed to:
 - <a href="https://gigayasawireless.github.io/5G-on-SDRs/"> A hands-on course on SDRs using Python Tools</a>
+- Some useful <a href="https://gigayasawireless.github.io/toolkit5G/api/Tutorials/Tutorials.html"> Tutorial</a>  for Wireless Communication folks
+- Some useful <a href="https://gigayasawireless.github.io/toolkit5G/api/Projects/Projects.html"> Projects</a>  for Wireless Communication folks
 
 ---
 
@@ -82,12 +84,12 @@ If you live around, you can pick up any or multiple of this stuff, but you will 
 #### Microphone :microphone:
 - Shure MV7 (For recording content)
 
-#### SDRs (Software Defined Radios)
+#### SDRs (Software Defined Radios) <img src="https://www.mouser.in/images/marketingid/2017/img/175161332_Analog_Devices_ADALM-PLUTOActiveLearningModule.png" width="20">
 - 2 Pluto-SDRs
 - USRP B210 (``planning to buy in 2025``)
 
 #### GPUs <img src="https://as1.ftcdn.net/v2/jpg/06/18/28/66/1000_F_618286673_EsXfu5DoxhviqQOf5XajS8lKYksyomJQ.jpg" width="20">
-- 2 RTX-3070i GPUs (For AI-ML model trainings and RTX works)
+- 2 RTX-3070i GPUs (For AI-ML model trainings and RTX work)
 
 #### Headphones 🎧
 - Sony WH-1000XM4
