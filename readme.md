@@ -94,7 +94,7 @@ Astro             6 hrs 13 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
  
 #### Cell Phone(s) :iphone:
 - Apple iPhone 15 Pro Max (Mostly for recording content | Low Distraction Phone)
-- Samsung Galaxy S23 (Distraction Phone)
+- Android Realme Pro (Distraction Phone)
 - Nokia 110 (Use it as a dumb phone)
  
 #### Camera(s) :camera:
