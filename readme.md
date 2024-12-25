@@ -98,7 +98,7 @@ Astro             6 hrs 13 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 - Nokia 110 (Use it as a dumb phone)
  
 #### Camera(s) :camera:
-- Lenovo 300 (As a laptop Camera)
+- Lenovo 300 (As a laptop Camera, my laptop camera sucks)
 
 #### Microphone :microphone:
 - Shure MV7 (For recording content)
