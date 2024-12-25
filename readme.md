@@ -64,6 +64,20 @@ These projects are still in the early stages. If you're interested in contributi
 
 ---
 
+### :bar_chart: [Coding Statistics for the last year](https://github.com/vikramsinghanttal)
+
+<!--START_SECTION:waka-->
+
+```txt
+Python            52 hrs 27 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.03 %
+MATLAB            26 hrs 19 mins  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.07 %
+C/C++             16 hrs 3 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.41 %
+Markdown          12 hrs 17 mins  🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.97 %
+Astro             6 hrs 13 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.03 %
+```
+
+---
+
 ## I can help you with the following gadgets:
 If you live around, you can pick up any or multiple of this stuff, but you will need to return it within a week.
 
