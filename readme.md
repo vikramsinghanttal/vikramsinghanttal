@@ -84,7 +84,7 @@ If you live around, you can pick up any or multiple of this stuff, but you will 
 #### Microphone :microphone:
 - Shure MV7 (For recording content)
 
-#### SDRs (Software Defined Radios) <img src="https://www.mouser.in/images/marketingid/2017/img/175161332_Analog_Devices_ADALM-PLUTOActiveLearningModule.png" width="20">
+#### SDRs (Software Defined Radios)
 - 2 Pluto-SDRs
 - USRP B210 (``planning to buy in 2025``)
 
