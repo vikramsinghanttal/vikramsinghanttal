@@ -73,7 +73,7 @@ If you live around, you can pick up any or multiple of this stuff, but you will 
  
 #### Cell Phone(s)
 - Apple iPhone 15 Pro Max (Mostly for recording content: Low Distraction Phone)
-- Android S23 (Distraction Phone)
+- Samsung Galaxy S23 (Distraction Phone)
 - Nokia 110 (Use it as a dumb phone)
  
 #### Camera(s)
