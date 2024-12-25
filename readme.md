@@ -84,7 +84,7 @@ If you live around, you can pick up any or multiple of this stuff, but you will 
 
 #### SDRs (Software Defined Radios)
 - 2 Pluto-SDRs
-- USRP B210 (planning to buy in 2025)
+- USRP B210 (``planning to buy in 2025``)
 
 #### GPUs
 - 2 RTX-3070i GPUs (For AI-ML model trainings and RTX works)
