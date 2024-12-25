@@ -1,5 +1,5 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, Thanks for visiting!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> </h1>
+<h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Hi, Thanks for visiting my <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="35" /> Profile!  </h1>
 
 I'm Vikram from India <img src="https://raw.githubusercontent.com/vikramsinghanttal/IIT-Kanpur/refs/heads/master/indianflag.svg" width="18">. I am a research engineer passionate 🧡 about developing and contributing to tools and packages in AI <img src="https://github.com/vikramsinghanttal/icons/blob/main/AI.png" width="12">, wireless communication <img src="https://github.com/vikramsinghanttal/icons/blob/main/gNB2.png" width="12">, signal processing, and quantum computing <img src="https://github.com/vikramsinghanttal/icons/blob/main/QC.png" width="12">. My goal is to accelerate learning, create technologies that simplify people's lives, and contribute to advancements in these fields.
 
