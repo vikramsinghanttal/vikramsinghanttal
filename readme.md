@@ -16,7 +16,7 @@ These projects are still in the early stages. If you're interested in contributi
 ---
 
 ## Things I code with
-![Code Time](https://img.shields.io/badge/Code%20Time-4%2C803%20hrs%2032mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-512-blue) ![Lines of code](https://img.shields.io/badge/Till%20Dec%202024%20I%27ve%20Written-~%205%20million%20lines%20of%20code-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-4%2C803%20hrs%2032mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-512-blue) ![Lines of code](https://img.shields.io/badge/Till%20Dec%202024%20I%27ve%20Written-~%20500%20k%20lines%20of%20code-blue)
 
 ### Languages
 
