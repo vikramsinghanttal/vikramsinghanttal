@@ -58,13 +58,14 @@ These projects are still in the early stages. If you're interested in contributi
 - <a href="https://www.linkedin.com/in/vikramgiga/"> LinkedIn</a> 💼 (Cutting down distractions: Not active for atleast next 2 quarter).
 
 ## Some useful resources that I built and contributed to:
+
 - <a href="https://gigayasawireless.github.io/5G-on-SDRs/"> A hands-on course on SDRs using Python Tools</a>
 - Some useful <a href="https://gigayasawireless.github.io/toolkit5G/api/Tutorials/Tutorials.html"> Tutorial</a>  for Wireless Communication folks
 - Some useful <a href="https://gigayasawireless.github.io/toolkit5G/api/Projects/Projects.html"> Projects</a>  for Wireless Communication folks
 
 ---
 
-### :bar_chart: [Coding Statistics for the last year](https://github.com/vikramsinghanttal)
+## :bar_chart: [Coding Statistics for the last year](https://github.com/vikramsinghanttal)
 
 <!--START_SECTION:waka-->
 
